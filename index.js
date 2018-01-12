@@ -16,7 +16,7 @@ const deleteRowsOptions = {
     sheetId: devRoutesSheetId,
     queryParameters: {
         ids: [],
-        ignoreRowsNotFound: false
+        ignoreRowsNotFound: true
     }
 };
 
